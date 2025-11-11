@@ -1,6 +1,5 @@
 # Adaptive-Branch-Predictor
 Advanced Computer Architecture Project
-Here’s a **README.md** file you can include with your project — it’s concise, structured, and fits both your *Adaptive Gshare* and *Hybrid Bimod+2lev* implementations.
 
 ---
 
@@ -143,5 +142,3 @@ To simulate:
 ```
 
 ---
-
-Would you like me to make this **README.md** file and give it as a downloadable `.md` file?
