@@ -13,7 +13,7 @@ This project explores and evaluates **adaptive branch prediction mechanisms** us
 
 ## 👥 Team
 
-**Group 14**
+**Group 13**
 
 * Varsha Swaraj (22CS02005)
 * Varri Navya (22CS02010)
