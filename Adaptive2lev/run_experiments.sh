@@ -4,6 +4,7 @@
 
 SIM="./sim-bpred"
 BENCH="/home/varsha/Documents/ACA/simplescalar-20251025T091721Z-1-001/simplescalar/simplesim-3.0/tests-pisa/bin.little/test-fmath"
+# Bench has address to your test-fmath benchmark.
 RESULT_DIR="results"
 
 # Ensure results directory exists
