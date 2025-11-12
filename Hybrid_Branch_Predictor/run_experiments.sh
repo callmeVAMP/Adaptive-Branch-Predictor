@@ -65,6 +65,9 @@ echo "✅ All experiments completed successfully."
 echo "Results saved in: $RESULT_DIR/"
 echo "-------------------------------------------"
 
+# You can easily change the benchmark (e.g. test-fmath or test-float) by editing this line:
+BENCH="./tests-pisa/bin.little/test-fmath"
+
 # Optional summary extraction
 for file in $RESULT_DIR/*.log; do
   echo ""
