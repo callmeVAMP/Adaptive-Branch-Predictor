@@ -15,8 +15,8 @@ This project explores and evaluates **adaptive branch prediction mechanisms** us
 
 **Group 13**
 
-* Varsha Swaraj (22CS02005)
-* Varri Navya (22CS02010)
+* Varsha Swaraj (22CS02005)--------PART1(ADAPTIVE 2LEV PREDICTOR)
+* Varri Navya (22CS02010)----------PART2(ADAPTIVE HYBRID PREDICTOR)
 
 **Submission Date:** 11th November 2025
 
